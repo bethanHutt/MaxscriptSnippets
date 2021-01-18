@@ -1,0 +1,1 @@
+for obj in selection do obj.material = meditMaterials[random 1 6]
