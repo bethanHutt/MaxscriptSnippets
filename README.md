@@ -1,0 +1,2 @@
+# maxscriptSnippets
+Snippets. Of Maxscript.
